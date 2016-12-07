@@ -59,8 +59,7 @@
 				background-color: red;
 				position: relative;
 				-webkit-animation: example 7s infinite; /* Chrome, Safari, Opera */
-														/* Chrome, Safari, Opera */
-				animation: example 7s infinite;
+				animation: example 7s infinite;		/* Standard syntax */
 				}
 
 														/* Chrome, Safari, Opera */
