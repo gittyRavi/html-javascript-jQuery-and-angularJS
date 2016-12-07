@@ -116,7 +116,7 @@
 						100% { opacity: 1.0; }
 				}
 </style>
-<link rel="stylesheet" type="text/CSS" href="https://github.com/gittyRavi/html-javascript-jQuery-and-angularJS/blob/master/Endangered-Animals/mystyle.css">
+<link rel="stylesheet" type="text/CSS" href="https://cdn.rawgit.com/gittyRavi/html-javascript-jQuery-and-angularJS/master/Endangered-Animals/mystyle.css">
 </HEAD>
 <BODY><H1 class="class1">Infos!!</H1>
 <p id="g" ><center>
