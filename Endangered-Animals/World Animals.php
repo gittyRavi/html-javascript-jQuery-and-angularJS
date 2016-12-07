@@ -1,8 +1,7 @@
-<!DOCTYPE html>					/* for chrome browser */
-<HTML>						/* for proper display download images and css file and link separately (why) */
+<HTML>						/* for chrome browser */
 <HEAD><p class="t" align="center"><z class="blink_text">World Animals</z></p>
-<TITLE>World . Animals</TITLE>
-<Style type="text/CSS">
+<TITLE>World . Animals</TITLE>			/* for proper display download images and css file and link separately (why) */
+<Style type="text/CSS">				/* or use http://rawgit.com for css file link */
 	.t{color : Blue;}			
 	p{	-webkit-animation: my 10s infinite; /* Chrome, Opera, and Safari */
 		animation: my 10s infinite; /* Standard syntax */
