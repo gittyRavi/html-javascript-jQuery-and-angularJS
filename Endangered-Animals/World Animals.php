@@ -50,7 +50,7 @@
 			-webkit-border-radius: 25px;
 			-moz-border-radius: 25px;
 			border-radius: 25px;
-      color: red;
+      			color: red;
 			background: red;
 				}
 			#anim{
