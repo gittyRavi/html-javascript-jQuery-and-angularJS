@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<HTML>
+<!DOCTYPE html>					/* for chrome browser */
+<HTML>						/* for proper display download images and css file and link separately (why) */
 <HEAD><p class="t" align="center"><z class="blink_text">World Animals</z></p>
 <TITLE>World . Animals</TITLE>
 <Style type="text/CSS">
