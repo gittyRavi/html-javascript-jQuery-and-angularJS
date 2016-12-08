@@ -133,8 +133,8 @@ Bald Eagle
 </H1>
 </td>
 <p>
-<pre>
-<div style="background-color:green;padding:5px;border-radius:5px;overflow:hidden"><textarea maxlength="50" rows="7" cols="50" style="position:relative;max-width:100%">This article is about the bird. For other uses, see Bald eagle (disambiguation).
+<!--removing-<pre>-->
+<div style="background-color:green;padding:5px;border-radius:5px;overflow:hidden"><div style="background-color:orange;padding:5px;border-radius:5px;overflow:hidden"></div><textarea maxlength="50" rows="7" cols="50" style="position:relative;max-width:100%">This article is about the bird. For other uses, see Bald eagle (disambiguation).
 "American eagle" redirects here. For other uses, see American eagle (disambiguation).
 
 The bald eagle (Haliaeetus leucocephalus, from Greek hali "sea", aiētos "eagle", leuco "white", cephalos "head") is a bird of prey found in North America. A sea eagle, it has two known subspecies and forms a species pair with the white-tailed eagle (Haliaeetus albicilla). Its range includes most of Canada and Alaska, all of the contiguous United States, and northern Mexico. It is found near large bodies of open water with an abundant food supply and old-growth trees for nesting.
@@ -152,8 +152,8 @@ The plumage of an adult bald eagle is evenly dark brown with a white head and ta
 The plumage of the immature is a dark brown overlaid with messy white streaking until the fifth (rarely fourth, very rarely third) year, when it reaches sexual maturity.[2][3] Immature bald eagles are distinguishable from the golden eagle (Aquila chrysaetos), the only other very large, non-vulturine bird in North America, in that the former has a larger, more protruding head with a larger beak, straighter edged wings which are held flat (not slightly raised) and with a stiffer wing beat and feathers which do not completely cover the legs. When seen well, the golden eagle is distinctive in plumage with a more solid warm brown color than an immature bald eagle, with a reddish-golden patch to its nape and (in immature birds) a highly contrasting set of white squares on the wing.[6] Another distinguishing feature of the immature bald eagle over the mature bird is its black, yellow-tipped beak; the mature eagle has a fully yellow beak.
 
 The bald eagle has sometimes been considered the largest true raptor (accipitrid) in North America. The only larger species of raptor-like bird is the California condor (Gymnogyps californianus), a New World vulture which today is not generally considered a taxonomic ally of true accipitrids.[7] However, the golden eagle, averaging 4.18 kg (9.2 lb) and 63 cm (25 in) in wing chord length in its American race (A. c. canadensis), is merely 455 g (1.003 lb) lighter in mean body mass and exceeds the bald eagle in mean wing chord length by around 3 cm (1.2 in).[5][8] Additionally, the bald eagle's close cousins, the relatively longer-winged but shorter-tailed white-tailed eagle and the overall larger Steller's sea eagle (H. pelagicus), may, rarely, wander to coastal Alaska from Asia.[5]
-</textarea> <img src="https://cloud.githubusercontent.com/assets/17430381/20966377/f806cc04-bc9f-11e6-9039-1af56e420195.jpg" style="height:23%;width:relative" alt="baldeagle_map"> <img src="https://cloud.githubusercontent.com/assets/17430381/20966386/05034374-bca0-11e6-9526-e7547038c6a1.jpg" style="height:23%;width:relative" alt="nesttree"></div>
-</pre>
+</textarea> <img src="https://cloud.githubusercontent.com/assets/17430381/20966377/f806cc04-bc9f-11e6-9039-1af56e420195.jpg" style="height:23%;width:relative" alt="baldeagle_map"> <img src="https://cloud.githubusercontent.com/assets/17430381/20966386/05034374-bca0-11e6-9526-e7547038c6a1.jpg" style="height:23%;width:relative" alt="nesttree"><div style="background-color:orange;padding:5px;border-radius:5px;overflow:hidden"></div></div>
+<!--removing-</pre>-->
 </p>
 <div class="circle" id="anim">
 <pre>
