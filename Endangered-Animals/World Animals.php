@@ -1,6 +1,9 @@
 <HTML>						
-<HEAD><p class="t" align="center"><z class="blink_text">World Animals</z></p>
-<TITLE>World . Animals</TITLE>			
+<HEAD>
+<TITLE>World . Animals</TITLE>	
+<p class="t" align="center">
+<z class="blink_text">World Animals</z>
+</p>		
 <Style type="text/CSS">				/* for chrome browser and for proper display download images and css file and link separately (why) or use http://rawgit.com for css file link */
 	.t{color : Blue;}			
 	p{	-webkit-animation: my 10s infinite; /* Chrome, Opera, and Safari */
