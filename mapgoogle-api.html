@@ -25,11 +25,11 @@ table{background-color:orange;border-radius:10px;text-align:center;width:100px;m
 <table>
 <tr>
 <td><label for="latitude">Latitude:</label></td>
-<td><input type="text" id="latitude" value="51.5"/></td><br/>
+<td><input type="text" id="latitude" value="28.6506"/></td><br/>
 </tr>
 <tr>
 <td><label for="longitude">Longitude:</label></td>
-<td><input type="text" id="longitude" value="-0.2"/></td><br/>
+<td><input type="text" id="longitude" value="77.2303"/></td><br/>
 </tr>
 </table>
 </tr>
@@ -52,7 +52,7 @@ table{background-color:orange;border-radius:10px;text-align:center;width:100px;m
 function myMap(latitude, longitude) {
   var mapCanvas = document.getElementById("map");
   var mapOptions = {
-    center: new google.maps.LatLng(latitude, longitude), zoom: 10
+    center: new google.maps.LatLng(latitude, longitude), zoom: 14
   };
   var map = new google.maps.Map(mapCanvas, mapOptions);
 }
